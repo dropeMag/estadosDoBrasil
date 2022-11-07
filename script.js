@@ -1,4 +1,4 @@
-import {lista_nomes, lista_paisagens, lista_regioes, lista_capital, lista_populacao, lista_mapa, lista_bandeiras} from '/nomes.js'
+import {lista_nomes, lista_paisagens, lista_regioes, lista_capital, lista_populacao, lista_mapa, lista_bandeiras} from '/nomes'
 
 let estados = document.querySelectorAll('.states')
 let nomes_estados = document.querySelectorAll('.states-name')
